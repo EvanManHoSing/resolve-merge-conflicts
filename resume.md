@@ -5,7 +5,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Job History
 
-## My Experience is
+## My Job History is
 
 
 ### GitHub Trainer
